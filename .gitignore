@@ -1,0 +1,5 @@
+*.*
+!/HW/*.SchDoc
+!/HW/*.PrjPcb
+!README.md
+!.gitignore
